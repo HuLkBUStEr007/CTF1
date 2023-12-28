@@ -31,7 +31,7 @@ contract CTF1 {
 1. Clone the repository to your local machine:
 
    ```bash
-   git clone https://github.com/bharatbhusal/ctf-challenge.git
+   git clone https://github.com/HuLkBUStEr007/CTF1.git
    ```
 
 2. Install dependencies:
@@ -50,7 +50,7 @@ contract CTF1 {
 
 ## Usage
 
-1. Make sure you have MetaMask installed and connected to the Ethereum network.
+1. Make sure you have MetaMask installed and connected to the Ethereum network using Initialize Ethereum.
 
 2. Click the "Unlock" button to initiate the unlocking process.
 
@@ -65,6 +65,7 @@ contract CTF1 {
 
 - Ensure MetaMask is configured with the correct network and account.
 
-## Contributing
-
-Feel free to contribute by opening issues or submitting pull requests.
+## Result
+ ```bash
+   https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b
+   ```
