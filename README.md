@@ -29,10 +29,10 @@ contract CTF1 {
 ```
 
 1. How to Access The App?
-- Vist the given link.
+- Visit the given link.
 
   ```sh
-   [UnLocker](https://ctf-1-smoky.vercel.app/)
+   https://ctf-1-smoky.vercel.app/
    ```
 
 ## Usage
