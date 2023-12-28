@@ -67,5 +67,5 @@ contract CTF1 {
 
 ## Result
  ```bash
-   https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b
+   [https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b](https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b)
    ```
