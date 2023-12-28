@@ -66,10 +66,7 @@ contract CTF1 {
 - Ensure MetaMask is configured with the correct network and account.
 
 ## Result
-  ```bash
-   #!/bin/bash
-
-echo "Click here: \033]8;;https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b\ahttps://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b\033]8;;\a"
-
-   ```
+```sh
+https://goerli.etherscan.io/tx/0xd6b3aa5e20e7d1ff32513b82114305d3f5a520394ae97357a8f1e5f5c28dbc6b
+```
 
