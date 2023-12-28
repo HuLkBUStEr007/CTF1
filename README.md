@@ -28,25 +28,11 @@ contract CTF1 {
 }
 ```
 
-1. Clone the repository to your local machine:
-
+1. How to Access The App?
+- Vist the given link:
    ```bash
-   git clone https://github.com/HuLkBUStEr007/CTF1.git
+   https://ctf-1-smoky.vercel.app/
    ```
-
-2. Install dependencies:
-
-   ```bash
-   npm install
-   ```
-
-3. Start the application:
-
-   ```bash
-   npm start
-   ```
-
-4. Open your browser and navigate to [http://localhost:3000](http://localhost:3000) to view the application.
 
 ## Usage
 
